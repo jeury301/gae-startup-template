@@ -84,7 +84,10 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+<<<<<<< HEAD
 .idea
+=======
+>>>>>>> 284b19891883859c645b45d46536bc45142450fc
 env/
 venv/
 ENV/
@@ -103,9 +106,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+<<<<<<< HEAD
 
 # mac files
 .DS_Store
 
 .idea
 .idea/workspace.xml
+=======
+>>>>>>> 284b19891883859c645b45d46536bc45142450fc
