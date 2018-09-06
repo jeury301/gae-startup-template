@@ -1,0 +1,36 @@
+
+input[type="text"],
+
+textarea {
+    width:25%;
+    
+    
+}
+
+#location{
+   width:30%;
+}
+
+.star{
+  width:25%;
+}
+.space{
+  margin-top:10px;
+}
+
+.btformat p{
+  margin-top:0px;
+  margin-bottom:0px;
+}
+label{
+  margin-top:10px;
+  margin-bottom:0px;
+ 
+   font-weight: 900;
+}
+#description{
+  width:50%;
+}
+ 
+
+
