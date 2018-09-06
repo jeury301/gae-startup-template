@@ -15,11 +15,6 @@ class Home(Controller):
         Model=(Model)
 
     def list(self):
+        """Your homepage logic goes here
         """
-        Shows the list of apps to which the current use has access to
-        """
-        
         self.context['home'] = "Welcome to ferris"
-
-
-    
